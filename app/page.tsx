@@ -19,14 +19,14 @@ export default function Home() {
         "@context": "https://schema.org",
         "@type": "WebSite",
         "name": "Git is Forever",
-        "description": "Forever is not a promise. It's mathematics. Distributed across thousands of machines. Impossible to erase. Forever in the Merkle tree.",
+        "description": "Forever is not a promise. It's mathematics. Distributed across thousands of machines. Impossible to erase. Forever in the distributed ledger.",
         "url": "https://git-isforever.com",
         "about": {
             "@type": "Thing",
             "name": "Git is Forever",
-            "description": "Distributed permanence and digital immortality. Your data replicated across thousands of machines. Forever in the Merkle tree."
+            "description": "Distributed permanence and digital immortality. Your data replicated across thousands of machines. Forever in the distributed ledger."
         },
-        "keywords": "git is forever, distributed permanence, digital immortality, merkle tree, forever storage"
+        "keywords": "git is forever, distributed permanence, digital immortality, distributed ledger, forever storage"
     }
 
     // FAQ Schema for search engines
